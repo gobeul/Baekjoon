@@ -12,4 +12,8 @@
 
 ### 실버
 - [1244번 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1244_python.md)
+<<<<<<< HEAD
 - [2477번 참외밭](https://www.acmicpc.net/problem/2477) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2477_python.md)
+=======
+- [2304번 창고 다각형](https://www.acmicpc.net/problem/2304) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2304_python.md)
+>>>>>>> 243898326396eb3a4b49e6800937c5486c94eda7
