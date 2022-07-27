@@ -18,3 +18,4 @@
 - [2477번 참외밭](https://www.acmicpc.net/problem/2477) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2477_python.md)
 - [2491번 수열](https://www.acmicpc.net/problem/2491) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2491_python.md)
 - [2527번 직사각형](https://www.acmicpc.net/problem/2527) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2527_python.md)
+- [2559번 직사각형](https://www.acmicpc.net/problem/2559) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2559_python.md)
