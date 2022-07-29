@@ -21,3 +21,4 @@
 - [2527번 직사각형](https://www.acmicpc.net/problem/2527) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2527_python.md)
 - [2559번 직사각형](https://www.acmicpc.net/problem/2559) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2559_python.md)
 - [2564번 경비원](https://www.acmicpc.net/problem/2564) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2564_python.md)
+- [2628번 종이자르기](https://www.acmicpc.net/problem/2628) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2628_python.md)
