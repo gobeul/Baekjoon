@@ -10,11 +10,10 @@
  - [9093번 단어 뒤집기](https://www.acmicpc.net/problem/9093) ___ [[Python]](https://github.com/gobeul/Baekjoon/blob/master/problems/9093_python.md)
  - [23037번 5의 수난](https://www.acmicpc.net/problem/23037) ___ [[Python]](https://github.com/gobeul/Baekjoon/blob/master/problems/23037_python.md)
 
-
+---
 ### 실버
 - [1010번 다리 놓기](https://www.acmicpc.net/problem/1010) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1010_python.md)
 - [1244번 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1244_python.md)
-- [2116번 주사위 쌓기](https://www.acmicpc.net/problem/2116) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2116_python.md)
 - [2304번 창고 다각형](https://www.acmicpc.net/problem/2304) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2304_python.md)
 - [2477번 참외밭](https://www.acmicpc.net/problem/2477) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2477_python.md)
 - [2491번 수열](https://www.acmicpc.net/problem/2491) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2491_python.md)
@@ -22,3 +21,11 @@
 - [2559번 수열](https://www.acmicpc.net/problem/2559) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2559_python.md)
 - [2564번 경비원](https://www.acmicpc.net/problem/2564) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2564_python.md)
 - [2628번 종이자르기](https://www.acmicpc.net/problem/2628) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2628_python.md)
+- [2635번 수 이어가기](https://www.acmicpc.net/problem/2635) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2635_python.md)
+- [10157번 자리배정](https://www.acmicpc.net/problem/10157) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/10157_python.md)
+- [10158번 개미](https://www.acmicpc.net/problem/10158) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/10158_python.md)
+
+---
+### 골드
+- [2116번 주사위 쌓기](https://www.acmicpc.net/problem/2116) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2116_python.md)
+
