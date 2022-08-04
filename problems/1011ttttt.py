@@ -15,7 +15,12 @@ for i in range(n):
         p = math.ceil((y-x)/2)
         d, k = half(p)
 
-        if k == p:
+        q = y - 2*k
+
+        if k == q:
             print(2*d)
         else:
-            print(2*d +1)
+            if q >= k:
+                print(2*d + 1)
+            else:
+                print(2*d + math.ceil(q/d))
