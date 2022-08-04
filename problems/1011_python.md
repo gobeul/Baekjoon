@@ -23,6 +23,6 @@ for i in range(n):
         print(2*d -1)
 ```
 
-![1011_1](Baekjoon/1011_1.jpg)
+![1011_1](https://user-images.githubusercontent.com/109266805/182877357-bc4cad03-1297-48f8-b03c-99a606a9d5bb.jpg)
 
-![1011_2](Baekjoon/1011_2.jpg)
+![1011_2](https://user-images.githubusercontent.com/109266805/182877507-a548492a-af10-4633-8825-3fafdca7a9e1.jpg)
