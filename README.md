@@ -6,8 +6,14 @@
 
 ---
 ### 실버
+- [1003번 피보나치 함수](https://www.acmicpc.net/problem/1003) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1003_python.md)
+- [1004번 어린왕자](https://www.acmicpc.net/problem/1004) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1004_python.md)
 - [1010번 다리 놓기](https://www.acmicpc.net/problem/1010) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1010_python.md)
+- [1024번 수열의 합](https://www.acmicpc.net/problem/1024) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1024_python.md)
+- [1051번 숫자 정사각형](https://www.acmicpc.net/problem/1051) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1051_python.md)
+- [1052번 물병](https://www.acmicpc.net/problem/1052) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1052_python.md)
 - [1244번 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1244_python.md)
+- [1358번 다리 놓기](https://www.acmicpc.net/problem/1358) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1358_python.md)
 - [2304번 창고 다각형](https://www.acmicpc.net/problem/2304) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2304_python.md)
 - [2477번 참외밭](https://www.acmicpc.net/problem/2477) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2477_python.md)
 - [2491번 수열](https://www.acmicpc.net/problem/2491) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2491_python.md)
