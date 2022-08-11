@@ -13,6 +13,7 @@
 - [1051번 숫자 정사각형](https://www.acmicpc.net/problem/1051) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1051_python.md)
 - [1052번 물병](https://www.acmicpc.net/problem/1052) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1052_python.md)
 - [1074번 수열의 합](https://www.acmicpc.net/problem/1074) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1074_python.md)
+- [1105번 팔](https://www.acmicpc.net/problem/1105) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1105_python.md)
 - [1244번 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1244_python.md)
 - [1358번 다리 놓기](https://www.acmicpc.net/problem/1358) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1358_python.md)
 - [2304번 창고 다각형](https://www.acmicpc.net/problem/2304) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2304_python.md)
