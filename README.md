@@ -18,6 +18,7 @@
 - [1074번 수열의 합](https://www.acmicpc.net/problem/1074) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1074_python.md)
 - [1105번 팔](https://www.acmicpc.net/problem/1105) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1105_python.md)
 - [1189번 컴백홈](https://www.acmicpc.net/problem/1189) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1189_python.md)
+- [1239번 차트](https://www.acmicpc.net/problem/1239) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1239_python.md)
 - [1244번 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1244_python.md)
 - [1358번 다리 놓기](https://www.acmicpc.net/problem/1358) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1358_python.md)
 - [1463번 1로 만들기](https://www.acmicpc.net/problem/1463) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1463_python.md)
