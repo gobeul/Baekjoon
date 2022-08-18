@@ -3,6 +3,7 @@
  ### 골드
 - [1011번 Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1011_python.md)
 - [2116번 주사위 쌓기](https://www.acmicpc.net/problem/2116) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2116_python.md)
+- [2636번 치즈](https://www.acmicpc.net/problem/2636) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2636_python.md)
 - [7569번 토마토](https://www.acmicpc.net/problem/7569) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/7569_python.md)
 - [16234번 인구이동](https://www.acmicpc.net/problem/16234) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/16234_python.md)
 
