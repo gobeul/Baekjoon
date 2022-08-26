@@ -8,6 +8,7 @@
 - [7569번 토마토](https://www.acmicpc.net/problem/7569) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/7569_python.md)
 - [16234번 인구이동](https://www.acmicpc.net/problem/16234) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/16234_python.md)
 - [17141번 연구소 2](https://www.acmicpc.net/problem/17141) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/17141_python.md)
+- [17142번 연구소 3](https://www.acmicpc.net/problem/17142) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/17142_python.md)
 - [18405번 경쟁적 감염](https://www.acmicpc.net/problem/18405) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/18405_python.md)
 
 
