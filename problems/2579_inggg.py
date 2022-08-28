@@ -45,5 +45,5 @@ for i in range(1, N): # 1번 부터 N-1 까지
 
 # N-1 번 계단에서 가장 큰 값이 있을 수 있음.
 a = max(step[N], key=lambda x : x[1])[1]
-b = max(step[N-1], key=lambda x : x[1])[1]
+# b = max(step[N-1], key=lambda x : x[1])[1]
 print(max(a,b))

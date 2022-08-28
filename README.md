@@ -9,6 +9,7 @@
 - [16234번 인구이동](https://www.acmicpc.net/problem/16234) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/16234_python.md)
 - [17141번 연구소 2](https://www.acmicpc.net/problem/17141) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/17141_python.md)
 - [17142번 연구소 3](https://www.acmicpc.net/problem/17142) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/17142_python.md)
+- [17471번 게리맨더링](https://www.acmicpc.net/problem/17471) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/17471ㄴ_python.md)
 - [18405번 경쟁적 감염](https://www.acmicpc.net/problem/18405) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/18405_python.md)
 
 
@@ -30,6 +31,7 @@
 - [1389번 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1389_python.md)
 - [1463번 1로 만들기](https://www.acmicpc.net/problem/1463) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1463_python.md)
 - [1920번 수 찾기](https://www.acmicpc.net/problem/1920) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1920_python.md)
+- [2164번 카드2](https://www.acmicpc.net/problem/2164) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2164_python.md)
 - [2304번 창고 다각형](https://www.acmicpc.net/problem/2304) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2304_python.md)
 - [2477번 참외밭](https://www.acmicpc.net/problem/2477) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2477_python.md)
 - [2491번 수열](https://www.acmicpc.net/problem/2491) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2491_python.md)
@@ -53,6 +55,7 @@
  - [2669번 직사각형 네개의 합집합의 면적 구하기](https://www.acmicpc.net/problem/2669) ___ [[Python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2669_python.md)
  - [2747번 피보나치 수](https://www.acmicpc.net/problem/2747) ___ [[Python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2747_python.md)
  - [9093번 단어 뒤집기](https://www.acmicpc.net/problem/9093) ___ [[Python]](https://github.com/gobeul/Baekjoon/blob/master/problems/9093_python.md)
+ - [11050번 이항 계수 1](https://www.acmicpc.net/problem/11050) ___ [[Python]](https://github.com/gobeul/Baekjoon/blob/master/problems/11050_python.md)
  - [13300번 방배정](https://www.acmicpc.net/problem/13300) ___ [[Python]](https://github.com/gobeul/Baekjoon/blob/master/problems/13300_python.md)
  - [14696번 딱지놀이](https://www.acmicpc.net/problem/14696) ___ [[Python]](https://github.com/gobeul/Baekjoon/blob/master/problems/14696_python.md)
  - [23037번 5의 수난](https://www.acmicpc.net/problem/23037) ___ [[Python]](https://github.com/gobeul/Baekjoon/blob/master/problems/23037_python.md)
