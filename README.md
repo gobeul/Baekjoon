@@ -42,6 +42,7 @@
 - [2635번 수 이어가기](https://www.acmicpc.net/problem/2635) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2635_python.md)
 - [10157번 자리배정](https://www.acmicpc.net/problem/10157) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/10157_python.md)
 - [10158번 개미](https://www.acmicpc.net/problem/10158) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/10158_python.md)
+- [10773번 제로](https://www.acmicpc.net/problem/10773) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/10773_python.md)
 - [10828번 스택](https://www.acmicpc.net/problem/10828) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/10828_python.md)
 - [10866번 덱](https://www.acmicpc.net/problem/10866) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/10866_python.md)
 - [14888번 연산자 끼워넣기](https://www.acmicpc.net/problem/14888) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/14888_python.md)
