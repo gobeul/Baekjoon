@@ -43,6 +43,7 @@
 - [2564번 경비원](https://www.acmicpc.net/problem/2564) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2564_python.md)
 - [2628번 종이자르기](https://www.acmicpc.net/problem/2628) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2628_python.md)
 - [2635번 수 이어가기](https://www.acmicpc.net/problem/2635) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2635_python.md)
+- [2805번 나무 자르기](https://www.acmicpc.net/problem/2805) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2805_python.md)
 - [10157번 자리배정](https://www.acmicpc.net/problem/10157) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/10157_python.md)
 - [10158번 개미](https://www.acmicpc.net/problem/10158) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/10158_python.md)
 - [10773번 제로](https://www.acmicpc.net/problem/10773) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/10773_python.md)
@@ -50,6 +51,7 @@
 - [10866번 덱](https://www.acmicpc.net/problem/10866) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/10866_python.md)
 - [11723번 집합](https://www.acmicpc.net/problem/11723) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/11723_python.md)
 - [14888번 연산자 끼워넣기](https://www.acmicpc.net/problem/14888) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/14888_python.md)
+- [18111번 마인크래프트](https://www.acmicpc.net/problem/18111) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/18111_python.md)
 
 ---
  ### 브론즈
