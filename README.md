@@ -2,7 +2,9 @@
  
  ### 골드
 - [1011번 Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1011_python.md)
+- [1043번 거짓말](https://www.acmicpc.net/problem/1043) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1043_python.md)
 - [1107번 리모컨](https://www.acmicpc.net/problem/1107) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1107_python.md)
+- [1167번 트리의 지름](https://www.acmicpc.net/problem/1167) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1167_python.md)
 - [2116번 주사위 쌓기](https://www.acmicpc.net/problem/2116) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2116_python.md)
 - [2636번 치즈](https://www.acmicpc.net/problem/2636) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2636_python.md)
 - [3055번 탈출](https://www.acmicpc.net/problem/3055) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/3055_python.md)
@@ -57,6 +59,7 @@
 - [10866번 덱](https://www.acmicpc.net/problem/10866) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/10866_python.md)
 - [11723번 집합](https://www.acmicpc.net/problem/11723) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/11723_python.md)
 - [14888번 연산자 끼워넣기](https://www.acmicpc.net/problem/14888) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/14888_python.md)
+- [15650번 N과 M(2)](https://www.acmicpc.net/problem/15650) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/15650_python.md)
 - [18111번 마인크래프트](https://www.acmicpc.net/problem/18111) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/18111_python.md)
 
 ---
