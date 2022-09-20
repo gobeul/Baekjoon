@@ -4,6 +4,8 @@
 > 최단거리 손님찾는 용, 목적지까지 최단거리 계산용 이렇게 BFS를 2개 만들었다.<br>
 > 결국 손님 1명당 BFS를 2번 돌아야 하는데 N 이 최대 20이라서 통과할 수 있었던것 같다.
 ```python
+import sys
+input = sys.stdin.readline
 from collections import deque
 
 def G_BFS(i, j): # 최단거리 승객찾는 BFS
