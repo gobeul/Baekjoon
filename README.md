@@ -62,7 +62,9 @@
 - [10866번 덱](https://www.acmicpc.net/problem/10866) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/10866_python.md)
 - [11723번 집합](https://www.acmicpc.net/problem/11723) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/11723_python.md)
 - [14888번 연산자 끼워넣기](https://www.acmicpc.net/problem/14888) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/14888_python.md)
+- [15649번 N과 M(1)](https://www.acmicpc.net/problem/15649) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/15649_python.md)
 - [15650번 N과 M(2)](https://www.acmicpc.net/problem/15650) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/15650_python.md)
+- [15651번 N과 M(3)](https://www.acmicpc.net/problem/15651) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/15651_python.md)
 - [18111번 마인크래프트](https://www.acmicpc.net/problem/18111) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/18111_python.md)
 
 ---
