@@ -7,6 +7,7 @@
 - [1167번 트리의 지름](https://www.acmicpc.net/problem/1167) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1167_python.md)
 - [1504번 특정한 최단 경로](https://www.acmicpc.net/problem/1504) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1504_python.md)
 - [1753번 최단 경로](https://www.acmicpc.net/problem/1753) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1753_python.md)
+- [1967번 트리의 지름](https://www.acmicpc.net/problem/1967) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1967_python.md)
 - [2116번 주사위 쌓기](https://www.acmicpc.net/problem/2116) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2116_python.md)
 - [2636번 치즈](https://www.acmicpc.net/problem/2636) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2636_python.md)
 - [3055번 탈출](https://www.acmicpc.net/problem/3055) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/3055_python.md)
