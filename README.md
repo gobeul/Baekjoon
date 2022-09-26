@@ -14,6 +14,7 @@
 - [7569번 토마토](https://www.acmicpc.net/problem/7569) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/7569_python.md)
 - [7576번 토마토](https://www.acmicpc.net/problem/7576) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/7576_python.md)
 - [9019번 DSLR](https://www.acmicpc.net/problem/9019) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/9019_python.md)
+- [9663번 N-Queen](https://www.acmicpc.net/problem/9663) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/9663_python.md)
 - [10026번 적록색약](https://www.acmicpc.net/problem/10026) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/10026_python.md)
 - [14500번 테트로미노](https://www.acmicpc.net/problem/14500) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/14500_python.md)
 - [16234번 인구이동](https://www.acmicpc.net/problem/16234) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/16234_python.md)
