@@ -74,6 +74,7 @@
 - [10773번 제로](https://www.acmicpc.net/problem/10773) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/10773_python.md)
 - [10828번 스택](https://www.acmicpc.net/problem/10828) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/10828_python.md)
 - [10866번 덱](https://www.acmicpc.net/problem/10866) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/10866_python.md)
+- [11055번 가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/11055_python.md)
 - [11723번 집합](https://www.acmicpc.net/problem/11723) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/11723_python.md)
 - [14888번 연산자 끼워넣기](https://www.acmicpc.net/problem/14888) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/14888_python.md)
 - [15649번 N과 M(1)](https://www.acmicpc.net/problem/15649) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/15649_python.md)
