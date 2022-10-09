@@ -69,6 +69,7 @@
 - [2635번 수 이어가기](https://www.acmicpc.net/problem/2635) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2635_python.md)
 - [2805번 나무 자르기](https://www.acmicpc.net/problem/2805) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2805_python.md)
 - [5212번 지구 온난화](https://www.acmicpc.net/problem/5212) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/5212_python.md)
+- [6603번 로또](https://www.acmicpc.net/problem/6603) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/6603_python.md)
 - [10157번 자리배정](https://www.acmicpc.net/problem/10157) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/10157_python.md)
 - [10158번 개미](https://www.acmicpc.net/problem/10158) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/10158_python.md)
 - [10773번 제로](https://www.acmicpc.net/problem/10773) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/10773_python.md)
