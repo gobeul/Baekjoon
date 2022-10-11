@@ -22,6 +22,7 @@
 - [9663번 N-Queen](https://www.acmicpc.net/problem/9663) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/9663_python.md)
 - [10026번 적록색약](https://www.acmicpc.net/problem/10026) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/10026_python.md)
 - [13549번 숨바꼭질 3](https://www.acmicpc.net/problem/13549) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/13549_python.md)
+- [14499번 주사위 굴리기](https://www.acmicpc.net/problem/14499) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/14499_python.md)
 - [14500번 테트로미노](https://www.acmicpc.net/problem/14500) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/14500_python.md)
 - [14502번 숨바꼭질3](https://www.acmicpc.net/problem/14502) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/14502_python.md)
 - [16202번 MST 게임](https://www.acmicpc.net/problem/16202) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/16202_python.md)
