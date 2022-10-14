@@ -6,6 +6,7 @@
 - [1107번 리모컨](https://www.acmicpc.net/problem/1107) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1107_python.md)
 - [1167번 트리의 지름](https://www.acmicpc.net/problem/1167) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1167_python.md)
 - [1174번 줄어드는 수](https://www.acmicpc.net/problem/1174) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1174_python.md)
+- [1202번 보석 도둑](https://www.acmicpc.net/problem/1202) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1202_python.md)
 - [1238번 파티](https://www.acmicpc.net/problem/1238) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1238_python.md)
 - [1504번 특정한 최단 경로](https://www.acmicpc.net/problem/1504) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1504_python.md)
 - [1753번 최단 경로](https://www.acmicpc.net/problem/1753) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1753_python.md)
