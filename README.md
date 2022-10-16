@@ -9,6 +9,7 @@
 - [1202번 보석 도둑](https://www.acmicpc.net/problem/1202) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1202_python.md)
 - [1238번 파티](https://www.acmicpc.net/problem/1238) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1238_python.md)
 - [1504번 특정한 최단 경로](https://www.acmicpc.net/problem/1504) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1504_python.md)
+- [1647번 도시 분학 계획](https://www.acmicpc.net/problem/1647) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1647_python.md)
 - [1753번 최단 경로](https://www.acmicpc.net/problem/1753) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1753_python.md)
 - [1916번 최소비용 구하기](https://www.acmicpc.net/problem/1916) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1916_python.md)
 - [1967번 트리의 지름](https://www.acmicpc.net/problem/1967) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1967_python.md)
