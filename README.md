@@ -68,6 +68,7 @@
 - [2304번 창고 다각형](https://www.acmicpc.net/problem/2304) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2304_python.md)
 - [2477번 참외밭](https://www.acmicpc.net/problem/2477) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2477_python.md)
 - [2491번 수열](https://www.acmicpc.net/problem/2491) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2491_python.md)
+- [2504번 괄호의 값](https://www.acmicpc.net/problem/2504) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2504_python.md)
 - [2527번 직사각형](https://www.acmicpc.net/problem/2527) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2527_python.md)
 - [2531번 회전초밥](https://www.acmicpc.net/problem/2531) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2531_python.md)
 - [2559번 수열](https://www.acmicpc.net/problem/2559) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2559_python.md)
