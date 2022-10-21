@@ -40,6 +40,7 @@
 - [18405번 경쟁적 감염](https://www.acmicpc.net/problem/18405) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/18405_python.md)
 - [19238번 스마트 택시](https://www.acmicpc.net/problem/19238) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/19238_python.md)
 - [20056번 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/20056_python.md)
+- [20057번 마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/20057_python.md)
 - [21610번 마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/21610_python.md)
 
 
