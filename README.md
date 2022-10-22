@@ -39,6 +39,7 @@
 - [17836번 공주님을 구해라!](https://www.acmicpc.net/problem/17836) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/17836_python.md)
 - [18405번 경쟁적 감염](https://www.acmicpc.net/problem/18405) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/18405_python.md)
 - [19238번 스마트 택시](https://www.acmicpc.net/problem/19238) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/19238_python.md)
+- [19598번 최소 회의실 개수](https://www.acmicpc.net/problem/19598) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/19598_python.md)
 - [20056번 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/20056_python.md)
 - [20057번 마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/20057_python.md)
 - [21610번 마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/21610_python.md)
@@ -103,6 +104,7 @@
 - [16718번 봄버맨](https://www.acmicpc.net/problem/16718) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/16718_python.md)
 - [18111번 마인크래프트](https://www.acmicpc.net/problem/18111) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/18111_python.md)
 - [20438번 출석체크](https://www.acmicpc.net/problem/20438) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/20438_python.md)
+- [21314번 민겸 수](https://www.acmicpc.net/problem/21314) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/21314_python.md)
 - [21318번 피아노 체조](https://www.acmicpc.net/problem/21318) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/21318_python.md)
 
 ---
