@@ -44,6 +44,7 @@
 - [19598번 최소 회의실 개수](https://www.acmicpc.net/problem/19598) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/19598_python.md)
 - [20056번 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/20056_python.md)
 - [20057번 마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/20057_python.md)
+- [20366번 같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/20366_python.md)
 - [21610번 마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/21610_python.md)
 
 
