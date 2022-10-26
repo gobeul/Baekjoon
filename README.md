@@ -35,6 +35,7 @@
 - [16236번 아기상어](https://www.acmicpc.net/problem/16236) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/16236_python.md)
 - [17135번 캐슬디펜스](https://www.acmicpc.net/problem/17135) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/17135_python.md)
 - [17136번 색종이 붙이기](https://www.acmicpc.net/problem/17136) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/17136_python.md)
+- [17140번 이차원 배열과 연산](https://www.acmicpc.net/problem/17140) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/17140_python.md)
 - [17141번 연구소 2](https://www.acmicpc.net/problem/17141) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/17141_python.md)
 - [17142번 연구소 3](https://www.acmicpc.net/problem/17142) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/17142_python.md)
 - [17471번 게리맨더링](https://www.acmicpc.net/problem/17471) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/17471_python.md)
