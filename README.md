@@ -79,6 +79,7 @@
 - [2531번 회전초밥](https://www.acmicpc.net/problem/2531) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2531_python.md)
 - [2559번 수열](https://www.acmicpc.net/problem/2559) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2559_python.md)
 - [2564번 경비원](https://www.acmicpc.net/problem/2564) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2564_python.md)
+- [2615번 오목](https://www.acmicpc.net/problem/2615) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2615_python.md)
 - [2628번 종이자르기](https://www.acmicpc.net/problem/2628) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2628_python.md)
 - [2635번 수 이어가기](https://www.acmicpc.net/problem/2635) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2635_python.md)
 - [2805번 나무 자르기](https://www.acmicpc.net/problem/2805) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2805_python.md)
