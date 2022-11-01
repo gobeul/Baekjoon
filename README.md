@@ -39,6 +39,7 @@
 - [17140번 이차원 배열과 연산](https://www.acmicpc.net/problem/17140) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/17140_python.md)
 - [17141번 연구소 2](https://www.acmicpc.net/problem/17141) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/17141_python.md)
 - [17142번 연구소 3](https://www.acmicpc.net/problem/17142) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/17142_python.md)
+- [17404번 RGB거리2](https://www.acmicpc.net/problem/17404) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/17404_python.md)
 - [17471번 게리맨더링](https://www.acmicpc.net/problem/17471) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/17471_python.md)
 - [17836번 공주님을 구해라!](https://www.acmicpc.net/problem/17836) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/17836_python.md)
 - [18405번 경쟁적 감염](https://www.acmicpc.net/problem/18405) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/18405_python.md)
