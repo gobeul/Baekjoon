@@ -68,6 +68,7 @@
 - [1206번 DFS와 BFS](https://www.acmicpc.net/problem/1206) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1189_python.md)
 - [1239번 차트](https://www.acmicpc.net/problem/1239) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1206_python.md)
 - [1244번 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1244_python.md)
+- [1325번 효율적인 해킹](https://www.acmicpc.net/problem/1325) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1325_python.md)
 - [1358번 다리 놓기](https://www.acmicpc.net/problem/1358) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1358_python.md)
 - [1389번 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1389_python.md)
 - [1463번 1로 만들기](https://www.acmicpc.net/problem/1463) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1463_python.md)
