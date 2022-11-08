@@ -14,6 +14,7 @@
 - [1916번 최소비용 구하기](https://www.acmicpc.net/problem/1916) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1916_python.md)
 - [1967번 트리의 지름](https://www.acmicpc.net/problem/1967) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1967_python.md)
 - [2116번 주사위 쌓기](https://www.acmicpc.net/problem/2116) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2116_python.md)
+- [2473번 세 용액](https://www.acmicpc.net/problem/2473) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2473_python.md)
 - [2138번 전구와 스위치](https://www.acmicpc.net/problem/2138) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2138_python.md)
 - [2636번 치즈](https://www.acmicpc.net/problem/2636) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2636_python.md)
 - [2638번 치즈](https://www.acmicpc.net/problem/2638) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2638_python.md)
