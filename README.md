@@ -17,6 +17,7 @@
 - [2294번 동전 2](https://www.acmicpc.net/problem/2294) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2294_python.md)
 - [2473번 세 용액](https://www.acmicpc.net/problem/2473) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2473_python.md)
 - [2138번 전구와 스위치](https://www.acmicpc.net/problem/2138) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2138_python.md)
+- [2536번 버스 갈아타기](https://www.acmicpc.net/problem/2536) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2536_python.md)
 - [2636번 치즈](https://www.acmicpc.net/problem/2636) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2636_python.md)
 - [2638번 치즈](https://www.acmicpc.net/problem/2638) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2638_python.md)
 - [2668번 숫자고르기](https://www.acmicpc.net/problem/2668) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2668_python.md)
@@ -57,6 +58,7 @@
 - [20437번 문자열 게임2](https://www.acmicpc.net/problem/20437) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/20437_python.md)
 - [21278번 호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/21278_python.md)
 - [21610번 마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/21610_python.md)
+- [21758번 꿀 따기](https://www.acmicpc.net/problem/21758) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/21758_python.md)
 
 
 ---
