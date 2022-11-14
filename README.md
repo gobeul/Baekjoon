@@ -26,6 +26,7 @@
 - [5972번 택배 배송](https://www.acmicpc.net/problem/5972) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/5972_python.md)
 - [7569번 토마토](https://www.acmicpc.net/problem/7569) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/7569_python.md)
 - [7576번 토마토](https://www.acmicpc.net/problem/7576) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/7576_python.md)
+- [7682번 틱택토](https://www.acmicpc.net/problem/7682) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/7682_python.md)
 - [9019번 DSLR](https://www.acmicpc.net/problem/9019) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/9019_python.md)
 - [9663번 N-Queen](https://www.acmicpc.net/problem/9663) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/9663_python.md)
 - [10026번 적록색약](https://www.acmicpc.net/problem/10026) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/10026_python.md)
