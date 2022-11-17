@@ -125,6 +125,7 @@
 - [15663번 N과 M(10)](https://www.acmicpc.net/problem/15664) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/15664_python.md)
 - [15665번 N과 M(11)](https://www.acmicpc.net/problem/15665) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/15665_python.md)
 - [15666번 N과 M(12)](https://www.acmicpc.net/problem/15666) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/15666_python.md)
+- [15724번 주지수](https://www.acmicpc.net/problem/15724) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/15724_python.md)
 - [15787번 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/15787_python.md)
 - [16718번 봄버맨](https://www.acmicpc.net/problem/16718) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/16718_python.md)
 - [18111번 마인크래프트](https://www.acmicpc.net/problem/18111) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/18111_python.md)
