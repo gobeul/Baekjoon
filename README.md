@@ -24,6 +24,7 @@
 - [2668번 숫자고르기](https://www.acmicpc.net/problem/2668) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2668_python.md)
 - [3055번 탈출](https://www.acmicpc.net/problem/3055) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/3055_python.md)
 - [3687번 성냥개비](https://www.acmicpc.net/problem/3687) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/3687_python.md)
+- [5557번 1학년](https://www.acmicpc.net/problem/5557) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/5557_python.md)
 - [5972번 택배 배송](https://www.acmicpc.net/problem/5972) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/5972_python.md)
 - [7569번 토마토](https://www.acmicpc.net/problem/7569) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/7569_python.md)
 - [7576번 토마토](https://www.acmicpc.net/problem/7576) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/7576_python.md)
