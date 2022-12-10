@@ -140,6 +140,7 @@
 - [20922번 겹치는 건 싫어](https://www.acmicpc.net/problem/20922) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/20922_python.md)
 - [21314번 민겸 수](https://www.acmicpc.net/problem/21314) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/21314_python.md)
 - [21318번 피아노 체조](https://www.acmicpc.net/problem/21318) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/21318_python.md)
+- [22869번 징검다리 건너기 (small)](https://www.acmicpc.net/problem/22869) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/22869_python.md)
 
 ---
  ### 브론즈
