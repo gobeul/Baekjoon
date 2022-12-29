@@ -42,6 +42,7 @@
 - [14502번 연구소](https://www.acmicpc.net/problem/14502) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/14502_python.md)
 - [14503번 로봇 청소기](https://www.acmicpc.net/problem/14503) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/14503_python.md)
 - [14567번 선수과목 (Prerequisite)](https://www.acmicpc.net/problem/14567) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/14567_python.md)
+- [14923번 미로 탈출](https://www.acmicpc.net/problem/14923) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/14923_python.md)
 - [15685번 드래곤 커브](https://www.acmicpc.net/problem/15685) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/15685_python.md)
 - [15927번 회문은 회문아니야!!](https://www.acmicpc.net/problem/15927) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/15927_python.md)
 - [16202번 MST 게임](https://www.acmicpc.net/problem/16202) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/16202_python.md)
