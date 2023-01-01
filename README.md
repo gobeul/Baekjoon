@@ -58,6 +58,7 @@
 - [17404번 RGB거리2](https://www.acmicpc.net/problem/17404) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/17404_python.md)
 - [17406번 배열돌리기4](https://www.acmicpc.net/problem/17406) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/17406_python.md)
 - [17471번 게리맨더링](https://www.acmicpc.net/problem/17471) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/17471_python.md)
+- [17779번 게리맨더링 2](https://www.acmicpc.net/problem/17779) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/17779_python.md)
 - [17836번 공주님을 구해라!](https://www.acmicpc.net/problem/17836) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/17836_python.md)
 - [18405번 경쟁적 감염](https://www.acmicpc.net/problem/18405) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/18405_python.md)
 - [19236번 청소년 상어](https://www.acmicpc.net/problem/19236) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/19236_python.md)
