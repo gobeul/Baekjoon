@@ -18,6 +18,7 @@
 - [1967번 트리의 지름](https://www.acmicpc.net/problem/1967) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/1967_python.md)
 - [2116번 주사위 쌓기](https://www.acmicpc.net/problem/2116) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2116_python.md)
 - [2294번 동전 2](https://www.acmicpc.net/problem/2294) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2294_python.md)
+- [2461번 대표 선수](https://www.acmicpc.net/problem/2461) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2461_python.md)
 - [2473번 세 용액](https://www.acmicpc.net/problem/2473) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2473_python.md)
 - [2138번 전구와 스위치](https://www.acmicpc.net/problem/2138) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2138_python.md)
 - [2536번 버스 갈아타기](https://www.acmicpc.net/problem/2536) ___ [[python]](https://github.com/gobeul/Baekjoon/blob/master/problems/2536_python.md)
